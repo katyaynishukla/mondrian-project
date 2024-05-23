@@ -6,7 +6,7 @@ This project showcases a recreation of Piet Mondrian's iconic style using modern
 
 ## Live Demo
 
-You can view the live demo of the Mondrian Painting [here](#).
+You can view the live demo of the Mondrian Painting [here](https://katyaynishukla.github.io/mondrian-project/).
 
 ## Screenshots
 
